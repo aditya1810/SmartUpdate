@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<Manifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Components>
+    <Component package="runtime">
+      <Name>
+        <LocalizedString>Microsoft Visual C++ 2017 Redistributable Package (x86) </LocalizedString>
+        <LocalizedString culture="fr">Package redistribuable Microsoft Visual C++ 2017 (x86)</LocalizedString>
+      </Name>
+      <PackageFile>vcredist2017_x86_14.16.27033.exe</PackageFile>
+      <Hash>VK1GroCYSqSMrmNhITaSyWs2OeMicw0ox/uTsYPHYdo=</Hash>
+      <ProductCode>{624ba875-fdfc-4efa-9c66-b170dfebc3ec}</ProductCode>
+      <CommandLine>/Q</CommandLine>
+      <DaysToExpiration>0</DaysToExpiration>
+    </Component>
+    <Component package="msi">
+      <Name>
+        <LocalizedString>gwsh</LocalizedString>
+        <LocalizedString culture="fr">gwsh</LocalizedString>
+      </Name>
+      <ModuleCode>gwsh</ModuleCode>
+      <PackageFile>gwsh.msi</PackageFile>
+      <Hash>u1tyukDNApK0wUsA5N7UHVxHUaqqegmWWFZNnffMJRA=</Hash>
+      <Version>4.2.10.0</Version>
+      <ProductCode>{AF177A28-B255-427F-B746-FE73C0CC9749}</ProductCode>
+      <DaysToExpiration>14</DaysToExpiration>
+      <AdditionalInfo>
+        <LocalizedString />
+        <LocalizedString culture="fr" />
+      </AdditionalInfo>
+    </Component>
+    <Component package="msi">
+      <Name>
+        <LocalizedString>gwsh_config</LocalizedString>
+        <LocalizedString culture="fr">gwsh_config</LocalizedString>
+      </Name>
+      <ModuleCode>gwsh_config</ModuleCode>
+      <PackageFile>gwsh_config.msi</PackageFile>
+      <Hash>suOhdr2O6+tDCN58yXqr0Ry+IUJMaWR6xVsj/3JVork=</Hash>
+      <Version>4.2.5.0</Version>
+      <ProductCode>{9A880289-B137-4F3D-A771-E59F059DD032}</ProductCode>
+      <DaysToExpiration>14</DaysToExpiration>
+      <AdditionalInfo>
+        <LocalizedString />
+        <LocalizedString culture="fr" />
+      </AdditionalInfo>
+    </Component>
+    <Component package="msi">
+      <Name>
+        <LocalizedString>gwpr</LocalizedString>
+        <LocalizedString culture="fr">gwpr</LocalizedString>
+      </Name>
+      <ModuleCode>gwpr</ModuleCode>
+      <PackageFile>gwpr.msi</PackageFile>
+      <Hash>kItPJ9bErZXbTOY2hza6p2/gGvSjsAsy/0GpbUDGjyU=</Hash>
+      <Version>4.2.3.0</Version>
+      <ProductCode>{A6A0FF49-7D44-47C9-A220-07C6B05DE150}</ProductCode>
+      <DaysToExpiration>14</DaysToExpiration>
+      <AdditionalInfo>
+        <LocalizedString />
+        <LocalizedString culture="fr" />
+      </AdditionalInfo>
+    </Component>
+    <Component package="msi">
+      <Name>
+        <LocalizedString>gwpr_config</LocalizedString>
+        <LocalizedString culture="fr">gwpr_config</LocalizedString>
+      </Name>
+      <ModuleCode>gwpr_config</ModuleCode>
+      <PackageFile>gwpr_config.msi</PackageFile>
+      <Hash>BGvgWAs1+BWFVd0QMXVBJMgr4Lab2vMAry2DmJvYN8A=</Hash>
+      <Version>4.2.3.0</Version>
+      <ProductCode>{22EFBEDD-C04F-4465-BA2B-98FDB3DA4228}</ProductCode>
+      <DaysToExpiration>14</DaysToExpiration>
+      <AdditionalInfo>
+        <LocalizedString />
+        <LocalizedString culture="fr" />
+      </AdditionalInfo>
+    </Component>
+    <Component package="msi">
+      <Name>
+        <LocalizedString>gwtm</LocalizedString>
+        <LocalizedString culture="fr">gwtm</LocalizedString>
+      </Name>
+      <ModuleCode>gwtm</ModuleCode>
+      <PackageFile>gwtm.msi</PackageFile>
+      <Hash>YHlwbFTYWwHBoNfy+bPiTjlaXi2N50HNdOyGVMzIs+s=</Hash>
+      <Version>4.2.3.0</Version>
+      <ProductCode>{71799C4A-7730-40CF-B6BD-62F559971AED}</ProductCode>
+      <DaysToExpiration>14</DaysToExpiration>
+      <AdditionalInfo>
+        <LocalizedString />
+        <LocalizedString culture="fr" />
+      </AdditionalInfo>
+    </Component>
+    <Component package="msi">
+      <Name>
+        <LocalizedString>gwtm_config</LocalizedString>
+        <LocalizedString culture="fr">gwtm_config</LocalizedString>
+      </Name>
+      <ModuleCode>gwtm_config</ModuleCode>
+      <PackageFile>gwtm_config.msi</PackageFile>
+      <Hash>I6k2OIGn2PPCnL7cLTLuL6rgLK6+6tbeweFVqKSZ99M=</Hash>
+      <Version>4.2.3.0</Version>
+      <ProductCode>{E68DC358-FC4A-4906-800C-7FDBC3EABCCF}</ProductCode>
+      <DaysToExpiration>14</DaysToExpiration>
+      <AdditionalInfo>
+        <LocalizedString />
+        <LocalizedString culture="fr" />
+      </AdditionalInfo>
+    </Component>
+    <Component package="msi">
+      <Name>
+        <LocalizedString>gwul</LocalizedString>
+        <LocalizedString culture="fr">gwul</LocalizedString>
+      </Name>
+      <ModuleCode>gwul</ModuleCode>
+      <PackageFile>gwul.msi</PackageFile>
+      <Hash>5QEmiCqcjj394iEVRWaiNnW3p7EYcjMR05nGhvOHgJM=</Hash>
+      <Version>4.2.3.0</Version>
+      <ProductCode>{EE9250AA-43A1-4F4A-AB20-3DDD84FBC5B4}</ProductCode>
+      <DaysToExpiration>14</DaysToExpiration>
+      <AdditionalInfo>
+        <LocalizedString />
+        <LocalizedString culture="fr" />
+      </AdditionalInfo>
+    </Component>
+    <Component package="msi">
+      <Name>
+        <LocalizedString>gwul_config</LocalizedString>
+        <LocalizedString culture="fr">gwul_config</LocalizedString>
+      </Name>
+      <ModuleCode>gwul_config</ModuleCode>
+      <PackageFile>gwul_config.msi</PackageFile>
+      <Hash>ApDNX+LHSl7NVWe3lUxW67oKbF5ym4japZNfN0uRqk4=</Hash>
+      <Version>4.2.3.0</Version>
+      <ProductCode>{39353C8E-9DC2-4CED-AFA7-CFA85D64F35E}</ProductCode>
+      <DaysToExpiration>14</DaysToExpiration>
+      <AdditionalInfo>
+        <LocalizedString />
+        <LocalizedString culture="fr" />
+      </AdditionalInfo>
+    </Component>
+    <Component package="msi">
+      <Name>
+        <LocalizedString>gwci</LocalizedString>
+        <LocalizedString culture="fr">gwci</LocalizedString>
+      </Name>
+      <ModuleCode>gwci</ModuleCode>
+      <PackageFile>gwci.msi</PackageFile>
+      <Hash>M5CJDdK5KGOnuwtyQmDWeJ6w5zoLwIdNowY2xbII2hU=</Hash>
+      <Version>4.2.4.0</Version>
+      <ProductCode>{4DFBBA39-E610-4A1F-B515-E1E7122F5D70}</ProductCode>
+      <DaysToExpiration>14</DaysToExpiration>
+      <AdditionalInfo>
+        <LocalizedString />
+        <LocalizedString culture="fr" />
+      </AdditionalInfo>
+    </Component>
+    <Component package="msi">
+      <Name>
+        <LocalizedString>gwci_config</LocalizedString>
+        <LocalizedString culture="fr">gwci_config</LocalizedString>
+      </Name>
+      <ModuleCode>gwci_config</ModuleCode>
+      <PackageFile>gwci_config.msi</PackageFile>
+      <Hash>OYFkgueJZ8PiLtagUzl13ZXAKKLU9fuxb6T8OCXvBbg=</Hash>
+      <Version>4.2.3.0</Version>
+      <ProductCode>{2A614A8B-5B6D-4C4F-9197-4F68C58244F7}</ProductCode>
+      <DaysToExpiration>14</DaysToExpiration>
+      <AdditionalInfo>
+        <LocalizedString />
+        <LocalizedString culture="fr" />
+      </AdditionalInfo>
+    </Component>
+    <Component package="msi">
+      <Name>
+        <LocalizedString>gwdi</LocalizedString>
+        <LocalizedString culture="fr">gwdi</LocalizedString>
+      </Name>
+      <ModuleCode>gwdi</ModuleCode>
+      <PackageFile>gwdi.msi</PackageFile>
+      <Hash>dzT0iaJc4Q5TfGJ6vWI1VT0FIubQhivZu7RrPP/xWWM=</Hash>
+      <Version>4.2.3.0</Version>
+      <ProductCode>{7FA0A3BA-C28E-41BE-A378-02BE40D79155}</ProductCode>
+      <DaysToExpiration>14</DaysToExpiration>
+      <AdditionalInfo>
+        <LocalizedString />
+        <LocalizedString culture="fr" />
+      </AdditionalInfo>
+    </Component>
+    <Component package="msi">
+      <Name>
+        <LocalizedString>gwdi_config</LocalizedString>
+        <LocalizedString culture="fr">gwdi_config</LocalizedString>
+      </Name>
+      <ModuleCode>gwdi_config</ModuleCode>
+      <PackageFile>gwdi_config.msi</PackageFile>
+      <Hash>4Po4JqOGXV0mor+2iFCxvATH9BEX5A3k3Gooz/8orz0=</Hash>
+      <Version>4.2.3.0</Version>
+      <ProductCode>{110887B3-060E-4430-8D84-03D8619A2D91}</ProductCode>
+      <DaysToExpiration>14</DaysToExpiration>
+      <AdditionalInfo>
+        <LocalizedString />
+        <LocalizedString culture="fr" />
+      </AdditionalInfo>
+    </Component>
+  </Components>
+  <StringTable>
+    <Title>
+      <LocalizedString>SSTCL Update</LocalizedString>
+      <LocalizedString culture="fr">Mise à jour SSTCL</LocalizedString>
+    </Title>
+    <SkipInstall>
+      <LocalizedString>Please note that the deadline to update the illustration software has passed, and consequently some parts of the software will no longer be available. To regain access, please update your software.</LocalizedString>
+      <LocalizedString culture="fr">Veuillez noter que comme vous avez dépassé la date limite pour mettre à jour le logiciel d’illustrations, certaines fonctionnalités ne seront plus disponibles. Pour les accéder, SVP mettre le logiciel à jour.</LocalizedString>
+    </SkipInstall>
+    <UpToDateText>
+      <LocalizedString>You are currently running the most recent version of the SSTCL Illustration Software.</LocalizedString>
+      <LocalizedString culture="fr">Vous avez déjà la version la plus récente du logiciel d'illustrations SSTCL.</LocalizedString>
+    </UpToDateText>
+    <UpToDateCaption>
+      <LocalizedString>Version verified.</LocalizedString>
+      <LocalizedString culture="fr">Version validée.</LocalizedString>
+    </UpToDateCaption>
+    <LegacyPrompt>
+      <LocalizedString>An earlier generation of the SSTCL illustration software has been found. You will be prompted to remove it; please accept in order to proceed with the update.</LocalizedString>
+      <LocalizedString culture="fr">Une version antérieure du Logiciel d’illustrations SSTCL a été trouvée. Vous serez invité de le désinstaller; veuillez accepter afin de continuer avec la mise à jour.</LocalizedString>
+    </LegacyPrompt>
+    <RunningPrompt>
+      <LocalizedString>Please close all modules of the SSTCL illustration software in order to continue.</LocalizedString>
+      <LocalizedString culture="fr">Veuillez fermer tous les modules du Logiciel d’illustrations SSTCL afin de continuer.</LocalizedString>
+    </RunningPrompt>
+    <ExitPrompt>
+      <LocalizedString>Are you sure you want to exit?</LocalizedString>
+      <LocalizedString culture="fr">Êtes-vous sûr de vouloir quitter?</LocalizedString>
+    </ExitPrompt>
+  </StringTable>
+  <LegacyInfo />
+</Manifest>
